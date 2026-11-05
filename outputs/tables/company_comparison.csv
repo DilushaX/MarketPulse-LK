@@ -1,0 +1,14 @@
+Metric,JKH,HAYL,VONE
+Average Daily Return (%),0.0041,0.1057,0.1009
+Median Daily Return (%),0.0000,0.0000,0.0000
+Return Standard Deviation (%),1.5359,2.5405,2.9467
+Maximum Daily Return (%),18.7854,34.0773,29.8932
+Minimum Daily Return (%),-19.7010,-28.0254,-30.1887
+Skewness,-0.7240,1.9728,1.3874
+Kurtosis,28.1386,30.2802,18.0643
+20-Day Rolling Volatility (%),1.2916,2.0371,2.4198
+Positive Return Days,"1,232","1,152","1,165"
+Negative Return Days,"1,386","1,241","1,367"
+Zero Return Days,353,332,378
+Annualized Volatility (%),24.3809,40.3293,46.7779
+Total Trading Days,"2,971","2,725","2,910"
